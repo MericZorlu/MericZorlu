@@ -11,9 +11,19 @@ Junior Full Stack Developer based in Uşak, Türkiye. I study Computer Programmi
 
 ## Selected work
 
+I work on **Xentor Wear, Zova Serve and HopilotPMS** in the same two-person **ZovaSoft** team. Across all three projects, I own frontend development and share backend development with my teammate, contributing to application architecture, API integration, databases and deployment.
+
 **Xentor Wear — freelance e-commerce project**
 
 In a two-person team, I developed the frontend and contributed to the backend. My work includes product filtering, a server-side cart and an API-connected product management panel.
+
+**Zova Serve — restaurant and cafe management**
+
+An ongoing project combining QR menus, table QR ordering, waiter ordering flows, a venue website and an admin panel. The TypeScript monorepo uses Next.js, NestJS, PostgreSQL and Prisma.
+
+**HopilotPMS — hotel property management**
+
+An ongoing project for small and boutique hotels, covering room calendars, reservations, guests, payments/deposits and housekeeping. It includes a Next.js staff panel and hotel website, with a NestJS API, PostgreSQL and Prisma.
 
 **[Image-Based Encryption System](https://github.com/MericZorlu/ImageBasedEncryptionSystem-TUBITAK-2025-Nisan)**
 
